@@ -1,0 +1,16 @@
+-cpu=rx600
+-lang=c99
+-include="C:\WorkSpace\yayya\yayya\r_bsp"
+-include="C:\WorkSpace\yayya\yayya\r_glyph"
+-include="C:\WorkSpace\yayya\yayya\r_glyph\src"
+-include="C:\WorkSpace\yayya\yayya\r_glyph\src\glyph"
+-include="C:\WorkSpace\yayya\yayya\r_rspi_rx600"
+-include="C:\WorkSpace\yayya\yayya\r_rspi_rx600\src"
+-include="C:\WorkSpace\yayya\yayya\r_switches"
+-include="C:\WorkSpace\yayya\yayya\r_switches\src"
+-include="C:\WorkSpace\yayya\yayya\src"
+-output=obj="C:\WorkSpace\yayya\yayya\Debug\lowsrc.obj"
+-debug
+-speed
+"C:\WorkSpace\yayya\yayya\r_bsp\board\rdkrx63n\lowsrc.c"
+-nologo

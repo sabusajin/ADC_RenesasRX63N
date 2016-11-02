@@ -1,0 +1,29 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"yayya" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\yayya\yayya\r_bsp\board\rdkrx63n\lcd.h" 
+"C:\WorkSpace\yayya\yayya\r_bsp\mcu\rx63n\iodefine.h" 
+"C:\WorkSpace\yayya\yayya\r_glyph\src\glyph\glyph.h" 
+"C:\WorkSpace\yayya\yayya\r_glyph\src\r_glyph.c" 
+"C:\WorkSpace\yayya\yayya\r_rspi_rx600\src\r_rspi_rx600.c" 
+"C:\WorkSpace\yayya\yayya\src\customADC.c" 
+"C:\WorkSpace\yayya\yayya\src\customADC.h" 
+"C:\WorkSpace\yayya\yayya\src\main.c" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\yayya\yayya\r_bsp\board\rdkrx63n\lcd.h" 26 26 1313 458 0 7 
+"C:\WorkSpace\yayya\yayya\r_bsp\mcu\rx63n\iodefine.h" 0 0 1313 458 0 6 
+"C:\WorkSpace\yayya\yayya\r_glyph\src\glyph\glyph.h" 208 208 1313 458 0 5 
+"C:\WorkSpace\yayya\yayya\r_glyph\src\r_glyph.c" 182 182 1500 458 0 4 
+"C:\WorkSpace\yayya\yayya\r_rspi_rx600\src\r_rspi_rx600.c" 156 156 1500 458 0 3 
+"C:\WorkSpace\yayya\yayya\src\customADC.c" 78 78 1496 473 0 0 
+"C:\WorkSpace\yayya\yayya\src\customADC.h" 104 104 1500 477 0 1 
+"C:\WorkSpace\yayya\yayya\src\main.c" -8 -31 1537 705 1 2 
+[LOADED_PROJECTS]
+"yayya" 
+[END]
